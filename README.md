@@ -1,10 +1,10 @@
-# 🤖 Robot Arm Control Panel
+Robot Arm Control Panel
 
 This project is a control panel for a robot arm built using **Flutter** for the frontend and **PHP + MySQL** for the backend. The system allows the user to control four servo motors, save poses to a database, run saved poses, and delete them.
 
 ---
 
-## 🧠 What This Project Does
+What This Project Does
 
 - Control 4 servo motors using sliders.
 - Save the current pose (servo positions) to a MySQL database.
@@ -14,7 +14,7 @@ This project is a control panel for a robot arm built using **Flutter** for the 
 
 ---
 
-## 🧰 Technologies Used
+Technologies Used
 
 - **Frontend:** Flutter (Dart)
 - **Backend:** PHP
@@ -50,10 +50,14 @@ How I Made the Task
 
 
 UI 
+
+
 <img width="304" height="522" alt="Screenshot 2025-08-02 at 7 41 05 PM" src="https://github.com/user-attachments/assets/eaf453e9-ccea-4fc5-9a6b-6b8c4585c149" />
 
 
 saved to the database 
+
+
 <img width="502" height="130" alt="Screenshot 2025-08-02 at 7 41 25 PM" src="https://github.com/user-attachments/assets/fd5aa667-7a1e-41e2-858d-d469b7a69568" />
 
 
